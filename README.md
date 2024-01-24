@@ -1,6 +1,3 @@
-Certainly! Below is a simple README template for your voice-controlled assistant project. You can include this information in a file named `README.md` and place it in the root directory of your GitHub repository:
-
-```markdown
 # Voice-Controlled Assistant
 
 A simple voice-controlled assistant written in Python using SpeechRecognition, pyttsx3, pywhatkit, datetime, and wikipedia. This assistant allows users to perform various tasks through voice commands, such as playing music on YouTube, checking the current time and date, asking about someone or something, and engaging in casual conversation.
